@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family= Sigmar & display =swap');
+@import url('https://fonts.googleapis.com/css2?family= Sigmar & display =swap');
+body {
+    background: linear-gradient(to right, rgb(16, 49, 141), rgb(241, 40, 13));
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 400vh;
+
+} 
+
+h1 {
+    font-size: 40px;
+    align-items: center;
+    font-family: 'Sigmar', cursive;}
+
+h2 {
+    font-family: 'Sigmar', cursive;
+    font-size: 30px;
+}
